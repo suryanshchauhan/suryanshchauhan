@@ -23,3 +23,4 @@ I am Suryansh Chauhan, a junior Computer Science and Data Science major at DePau
 - 💻 LinkedIn: https://www.linkedin.com/in/suryanshchauhan2001/
 
 ![Suryansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryanshchauhan&theme=dark&show_icons=true)
+![Suryansh's Language stats](https://ionicabizau.github.io/github-profile-languages/api.html?suryanshchauhan)
