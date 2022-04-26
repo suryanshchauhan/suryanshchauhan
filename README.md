@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Suryansh Chauhan, a junior Computer Science and Data Science major at DePauw University in Greencastle, Indiana. Take a look around! For more, visit my portfolio www.suryansh.pw. As of now, I am looking for internships for Summer 2022.
+
+- 😄 Pronouns: He/Him
+- 📫 How to reach me: sayansh1507@gmail.com 
+
+![Suryansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryanshchauhan&theme=dark&show_icons=true)
