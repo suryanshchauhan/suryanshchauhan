@@ -21,3 +21,4 @@ I am Suryansh Chauhan, a junior Computer Science and Data Science major at DePau
 - 📫 How to reach me: sayansh1507@gmail.com 
 
 ![Suryansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryanshchauhan&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshchauhan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
