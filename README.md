@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Suryansh Chauhan, a junior Computer Science and Data Science major at DePauw University in Greencastle, Indiana. Take a look around! For more, visit my portfolio www.suryansh.pw. As of now, I am looking for internships for Summer 2022.
+I am Suryansh Chauhan, a senior Computer Science major (with a minor in Data Science) at DePauw University in Greencastle, Indiana. Take a look around! For more, visit my portfolio www.suryansh.pw. As of now, I am looking for internships as well as a full-time position.
 🇮🇳 -> 🇺🇸
 
 - 😄 Pronouns: He/Him
