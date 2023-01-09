@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 I am Suryansh Chauhan, a senior Computer Science major at DePauw University in Greencastle, Indiana. Take a look around! For more, visit my portfolio www.suryansh.info. As of now, I am looking for internships as well as a full-time position.
-🇮🇳 -> 🇺🇸
 
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: sayansh1507@gmail.com 
