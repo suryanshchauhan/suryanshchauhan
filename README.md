@@ -21,4 +21,4 @@ I am Suryansh Chauhan, a senior Computer Science major at DePauw University in G
 - 📫 How to reach me: sayansh1507@gmail.com 
 - 💻 LinkedIn: https://www.linkedin.com/in/suryanshchauhan2001/
 
-![Suryansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryanshchauhan)]
+(https://github-readme-stats.vercel.app/api?username=suryanshchauhan&theme=maroongold&show_icons=true)
