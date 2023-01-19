@@ -1,4 +1,4 @@
-<h2> Hi there 👋 Thank You For Viewing My GitHub Profile And Projects! </h2>
+<h3> Hi there 👋 Thank You For Viewing My GitHub Profile And Projects! </h3>
 
 <!--
 **suryanshchauhan/suryanshchauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
