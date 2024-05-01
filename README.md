@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 I am Suryansh Chauhan, a Computer Science graduate from DePauw University in Greencastle, Indiana. Take a look around! For more, visit my portfolio at www.suryansh.wiki. I am currently seeking full-time positions.
 
-- 😄 Pronouns: He/Him
 - 📫 How to reach me: sayansh1507@gmail.com 
 - 💻 LinkedIn: https://www.linkedin.com/in/suryanshchauhan2001/
 
