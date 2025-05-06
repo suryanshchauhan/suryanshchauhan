@@ -17,7 +17,14 @@ Here are some ideas to get you started:
 
 I am Suryansh Chauhan, a Computer Science graduate from DePauw University in Greencastle, Indiana. Take a look around! For more, visit my portfolio at www.suryansh.wiki. I am currently seeking full-time positions.
 
-- 📫 How to reach me: sayansh1507@gmail.com 
-- 💻 LinkedIn: https://www.linkedin.com/in/suryanshchauhan2001/
+🔗 **Portfolios**:  
+- 💻 **Development Portfolio**: [www.suryansh.wiki](https://www.suryansh.wiki)  
+- 📊 **Product Management Portfolio**: [Insert your PM portfolio link here]
+
+📫 **How to reach me**:  
+- For development opportunities: **sayansh1507@gmail.com**  
+- For product management roles: **[Insert PM email here]**
+
+💼 **LinkedIn**: [https://www.linkedin.com/in/suryanshchauhan2001/](https://www.linkedin.com/in/suryanshchauhan2001/)
 
 *Plus: I have collaborated with amazing teams to further develop mobile and web applications alongside data science projects that I am unable to publish to respect the Non-Disclosure Agreements. However, it would be my pleasure to share the superficial mission with you!*
