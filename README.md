@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Suryansh Chauhan, a Computer Science graduate from DePauw University in Greencastle, Indiana. Take a look around! For more, visit my portfolio at www.suryansh.wiki. I am currently seeking full-time positions.
+I am Suryansh Chauhan, a Computer Science graduate from DePauw University in Greencastle, Indiana. Take a look around!
 
 🔗 **Portfolios**:  
-- 💻 **Development Portfolio**: [www.suryansh.wiki](https://www.suryansh.wiki)  
+- 💻 **Development Portfolio**: [www.suryansh.live](https://www.suryansh.live)  
 - 📊 **Product Management Portfolio**: [Insert your PM portfolio link here]
 
 📫 **How to reach me**:  
 - For development opportunities: **sayansh1507@gmail.com**  
-- For product management roles: **[Insert PM email here]**
+- For product management roles: **pmsuryansh@gmail.com**
 
 💼 **LinkedIn**: [https://www.linkedin.com/in/suryanshchauhan2001/](https://www.linkedin.com/in/suryanshchauhan2001/)
 
