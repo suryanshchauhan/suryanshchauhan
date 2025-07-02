@@ -19,7 +19,7 @@ I am Suryansh Chauhan, a Computer Science graduate from DePauw University in Gre
 
 🔗 **Portfolios**:  
 - 💻 **Development Portfolio**: [www.suryansh.live](https://www.suryansh.live)  
-- 📦 **Product Management Portfolio**:
+- 📦 **Product Management Portfolio**: [www.suryansh.digital](https://www.suryansh.digital) 
 
 📫 **How to reach me**:  
 - For development inquiries: sayansh1507@gmail.com  
