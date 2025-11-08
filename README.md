@@ -22,7 +22,7 @@ I am Suryansh Chauhan, a Computer Science graduate from DePauw University in Gre
 - 📦 **Product Management Portfolio**: [www.suryansh.digital](https://www.suryansh.digital) 
 
 📫 **How to reach me**:  
-- For development inquiries: sayansh1507@gmail.com  
+- For development inquiries: codesuryansh@gmail.com  
 - For product management inquiries: pmsuryansh@gmail.com
 
 💼 **LinkedIn**: [https://www.linkedin.com/in/suryanshchauhan2001/](https://www.linkedin.com/in/suryanshchauhan2001/)
